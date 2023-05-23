@@ -1,0 +1,8 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\bin\Debug\KG3.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\bin\Debug\KG3.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.Form1.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\Debug\KG3.pdb
